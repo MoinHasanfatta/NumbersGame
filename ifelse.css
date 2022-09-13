@@ -1,0 +1,51 @@
+*{
+    background-color: black;
+
+}
+h1{
+    color: gold;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    color:azure;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+.elem{
+    display: block;
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    color: yellow;
+}
+#interact{
+    font-style: italic;
+}
+button {
+    border: outset;
+    margin-top: 15px;
+    background-color: black;
+    color: aquamarine;
+    height: 30px;
+    width: 120px;
+    font-size: 20px;
+    border-radius: 12px;
+    margin-left: 575px;
+
+}
+
+button:hover{
+    border: inset;
+    background-color: rebeccapurple;
+    color:black;
+    text-decoration: underline;
+    cursor: pointer;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    font-size: x-large;
+    padding: 1rem;
+}
